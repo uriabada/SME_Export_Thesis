@@ -113,7 +113,7 @@ Contains datasets prepared for machine learning, including:
 
 ## Repository Structure
 
-
+```text
 SME_Export_Thesis/
 │
 ├── Data/
@@ -167,7 +167,7 @@ SME_Export_Thesis/
 
 The results/ directory contains the outputs generated during the analysis.
 
-###Figures
+### Figures
 
 results/figures/
 
