@@ -1,0 +1,2 @@
+Target,Predictors,Numeric_variables,Binary_variables,Ordinal_variables,Test_size,Random_state,Imputation,Class_balance_method
+exporter,"l1, d2, b7, b2b, h1, c22b, c36, e6, b3a, l10, c39, k30","l1, d2, b7, b2b","h1, c22b, c36, e6, b3a, l10, c39",k30,0.2,42,Training-set median,SMOTE applied to training data only

@@ -1,0 +1,4 @@
+Country,Train_N,Test_N,Predictors,Train_missing,Test_missing,Train_class_0,Train_class_1,Test_class_0,Test_class_1,SMOTE_class_0,SMOTE_class_1
+Kenya,819,205,12,0,0,676,143,169,36,676,676
+Tanzania,472,118,12,0,0,403,69,101,17,403,403
+Uganda,484,121,12,0,0,431,53,108,13,431,431
