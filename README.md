@@ -197,7 +197,7 @@ results/training/
 
 Contains model training, validation and comparison outputs.
 
-### Reproducibility
+## Reproducibility
 
 The repository is organised to maintain a clear separation between:
 
@@ -205,7 +205,7 @@ Raw data → Clean data → Modelling data → Analysis → Results
 
 The original raw datasets are preserved separately from the processed datasets. The notebooks and scripts document the analytical and modelling workflow used in the research.
 
-### Data Provenance
+## Data Provenance
 
 The original survey datasets were obtained from the World Bank Enterprise Surveys.
 
@@ -213,7 +213,7 @@ The Data/raw/ folder contains the original datasets used as the starting point f
 
 The processed datasets in Data/clean/ and Data/model/ were generated during the research workflow.
 
-### Academic Purpose
+## Academic Purpose
 
 This repository is maintained as a supporting research repository for the Master’s thesis. It provides transparency regarding the data, analytical workflow, modelling process and empirical results.
 
