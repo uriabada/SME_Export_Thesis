@@ -1,0 +1,4 @@
+Country,Raw_N,Clean_N,Predictors,Exporters,Non_exporters,Missing_exporter,Missing_predictor_values
+Kenya,1024,1024,12,179,845,0,5
+Tanzania,600,600,12,86,504,10,143
+Uganda,605,605,12,66,539,0,75

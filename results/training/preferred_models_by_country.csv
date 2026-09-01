@@ -1,0 +1,4 @@
+Country,Model,Best_CV_ROC_AUC,Best_Parameters
+Kenya,Random Forest,0.9574401678366821,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__n_estimators': 200}"
+Tanzania,Random Forest,0.973293133668648,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__n_estimators': 200}"
+Uganda,Random Forest,0.9904788546775828,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__n_estimators': 500}"

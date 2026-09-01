@@ -1,0 +1,16 @@
+Country,Model,Best_CV_ROC_AUC,Best_Parameters
+Kenya,Random Forest,0.9574401678366821,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__n_estimators': 200}"
+Kenya,CART,0.8791863955458726,"{'model__max_depth': 7, 'model__min_samples_leaf': 5, 'model__min_samples_split': 2}"
+Kenya,Logistic Regression,0.8430714112805615,{'model__C': 100}
+Kenya,LASSO Logistic Regression,0.8429291535544259,"{'model__C': 10, 'model__l1_ratio': 1.0}"
+Kenya,BART-MIA,0.818502503413746,50 trees; 250 burn-in; 1000 post-burn-in; MIA enabled
+Tanzania,Random Forest,0.973293133668648,"{'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__n_estimators': 200}"
+Tanzania,CART,0.9252951150739216,"{'model__max_depth': 7, 'model__min_samples_leaf': 5, 'model__min_samples_split': 2}"
+Tanzania,LASSO Logistic Regression,0.7470880963267794,"{'model__C': 0.1, 'model__l1_ratio': 1.0}"
+Tanzania,Logistic Regression,0.7459583142813595,{'model__C': 100}
+Tanzania,BART-MIA,0.715359441867156,50 trees; 250 burn-in; 1000 post-burn-in; MIA enabled
+Uganda,Random Forest,0.9904788546775828,"{'model__max_depth': 20, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__n_estimators': 500}"
+Uganda,CART,0.9410381815582204,"{'model__max_depth': 7, 'model__min_samples_leaf': 1, 'model__min_samples_split': 10}"
+Uganda,Logistic Regression,0.9066354599876914,{'model__C': 100}
+Uganda,LASSO Logistic Regression,0.9065816875229233,"{'model__C': 100, 'model__l1_ratio': 1.0}"
+Uganda,BART-MIA,0.885041369347283,50 trees; 250 burn-in; 1000 post-burn-in; MIA enabled
