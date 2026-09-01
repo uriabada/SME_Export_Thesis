@@ -162,7 +162,7 @@ SME_Export_Thesis/
 
 
 
-### Results
+## Results
 
 The results/ directory contains the outputs generated during the analysis.
 
