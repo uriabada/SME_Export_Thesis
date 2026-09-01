@@ -110,13 +110,100 @@ Contains datasets prepared for machine learning, including:
 - SMOTE training datasets
 - Modelling specifications
 - Country-specific modelling datasets
+## Repository Structure
+
+```text
+
+SME_Export_Thesis/
+
+│
+
+├── Data/
+
+│   ├── raw/
+
+│   │   ├── Kenya-2023-full-data.dta
+
+│   │   ├── Tanzania-2023-full-data.dta
+
+│   │   └── Uganda-2023-full-data.dta
+
+│   │
+
+│   ├── clean/
+
+│   │   ├── Kenya_clean.csv
+
+│   │   ├── Tanzania_clean.csv
+
+│   │   └── Uganda_clean.csv
+
+│   │
+
+│   └── model/
+
+│       ├── Kenya_X_train.csv
+
+│       ├── Kenya_X_test.csv
+
+│       ├── Kenya_y_train.csv
+
+│       ├── Kenya_y_test.csv
+
+│       ├── Kenya_train_smote.csv
+
+│       ├── Tanzania_X_train.csv
+
+│       ├── Tanzania_X_test.csv
+
+│       ├── Tanzania_y_train.csv
+
+│       ├── Tanzania_y_test.csv
+
+│       ├── Tanzania_train_smote.csv
+
+│       ├── Uganda_X_train.csv
+
+│       ├── Uganda_X_test.csv
+
+│       ├── Uganda_y_train.csv
+
+│       ├── Uganda_y_test.csv
+
+│       └── Uganda_train_smote.csv
+
+│
+
+├── notebooks/
+
+│
+
+├── scripts/
+
+│
+
+├── results/
+
+│   ├── figures/
+
+│   ├── models/
+
+│   ├── tables/
+
+│   └── training/
+
+│
+
+├── .gitignore
+
+│
+
+└── README.md
 
 
 
 
 
-
-...
 ### Results
 
 The results/ directory contains the outputs generated during the analysis.
