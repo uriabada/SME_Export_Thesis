@@ -158,9 +158,9 @@ SME_Export_Thesis/
 │
 └── README.md
 
+```text
 
-
-### Results
+**### Results**
 
 The results/ directory contains the outputs generated during the analysis.
 
