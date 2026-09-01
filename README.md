@@ -160,11 +160,14 @@ SME_Export_Thesis/
 
 ```text
 
-**### Results**
+
+
+
+# Results**
 
 The results/ directory contains the outputs generated during the analysis.
 
-### Figures
+###Figures
 
 results/figures/
 
