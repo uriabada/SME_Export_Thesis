@@ -157,3 +157,66 @@ SME_Export_Thesis/
 ├── .gitignore
 │
 └── README.md
+
+
+
+Results
+
+The results/ directory contains the outputs generated during the analysis.
+
+Figures
+
+results/figures/
+
+Contains visualisations including model evaluation and comparison figures.
+
+Tables
+
+results/tables/
+
+Contains analytical tables such as:
+
+* Descriptive statistics
+* Exporter comparisons
+* Exporter validation
+* Missingness assessment
+* Group difference tests
+* Model comparisons
+
+Models
+
+results/models/
+
+Contains saved model outputs where applicable, including BART-MIA models.
+
+Training
+
+results/training/
+
+Contains model training, validation and comparison outputs.
+
+Reproducibility
+
+The repository is organised to maintain a clear separation between:
+
+Raw data → Clean data → Modelling data → Analysis → Results
+
+The original raw datasets are preserved separately from the processed datasets. The notebooks and scripts document the analytical and modelling workflow used in the research.
+
+Data Provenance
+
+The original survey datasets were obtained from the World Bank Enterprise Surveys.
+
+The Data/raw/ folder contains the original datasets used as the starting point for the research.
+
+The processed datasets in Data/clean/ and Data/model/ were generated during the research workflow.
+
+Academic Purpose
+
+This repository is maintained as a supporting research repository for the Master’s thesis. It provides transparency regarding the data, analytical workflow, modelling process and empirical results.
+
+Author
+
+Eddie Best
+
+Master’s Thesis
