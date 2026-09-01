@@ -113,7 +113,7 @@ Contains datasets prepared for machine learning, including:
 
 ## Repository Structure
 
-```text
+
 SME_Export_Thesis/
 │
 ├── Data/
@@ -158,7 +158,7 @@ SME_Export_Thesis/
 │
 └── README.md
 
-```text
+
 
 
 
