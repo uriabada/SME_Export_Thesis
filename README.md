@@ -2,7 +2,7 @@
 
 ## Thesis Topic
 
-**Predicting SME Export Readiness in East African Community Economies: A Machine Learning Approach Benchmarked Against a European Firm-Level Model**
+**Predicting SME Export Readiness in East African Community : A Machine Learning Approach Benchmarked Against a European Firm-Level Model**
 
 ## Overview
 
