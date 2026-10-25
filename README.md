@@ -1,4 +1,4 @@
-# Predicting SME Export Readiness in East African Community Economies
+# Predicting SME Export Status in East African Community Economies
 
 ## Thesis Topic
 
